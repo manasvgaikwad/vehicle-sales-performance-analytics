@@ -37,7 +37,7 @@ A company had years of order-level sales data but no clear view of where its rev
 ### 1. Sales Overview Dashboard
 This dashboard shows overall performance and how sales change over time.
 
-![Sales Overview Dashboard](images/dashboard_page1.png)
+<img width="1201" height="692" alt="image" src="https://github.com/user-attachments/assets/7cdf78db-43fb-477a-af1d-3bf431495359" />
 
 * **Key Insight:** The company generated **$10.03 million** in sales, and **Classic Cars** is the top product line at **39.1%** of revenue, followed by Vintage Cars at **19.0%**.
 * **Other Insights:**
@@ -49,7 +49,7 @@ This dashboard shows overall performance and how sales change over time.
 ### 2. Products, Customers & Orders Dashboard
 This dashboard shows the best-selling products and top customers, and the health of the order pipeline.
 
-![Products, Customers and Orders Dashboard](images/dashboard_page2.png)
+<img width="982" height="550" alt="image" src="https://github.com/user-attachments/assets/a9ce818d-4aaa-4b5f-ad67-c10eaafd80aa" />
 
 * **Key Insight:** The top 10 customers account for **29.5%** of total revenue, led by **Euro Shopping Channel** (**$912K**) and **Mini Gifts Distributors Ltd.** (**$655K**).
 * **Other Insights:**
